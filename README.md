@@ -2,7 +2,10 @@ hello-world
 ===========
 
 This is my 1st repository
-I am working now. 
+
+I am working now.
+It's almost 4:00PM and time to go home.
+
 To commit changes
 
     Click the README file.
